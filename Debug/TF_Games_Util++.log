@@ -1,0 +1,5 @@
+﻿cl : command line warning D9002: ignoring unknown option '/ascii'
+  TF_Games_Util++.cpp
+C:\Users\Patrik Nusszer\source\repos\TF_Games_Util++\TF_Games_Util++.cpp(86,12): warning C4244: 'return': conversion from 'std::streamsize' to 'size_t', possible loss of data
+C:\Users\Patrik Nusszer\source\repos\TF_Games_Util++\TF_Games_Util++.cpp(245): warning C4715: 'nusstudios::core::strkit::kmpfi': not all control paths return a value
+  TF_Games_Util++.vcxproj -> C:\Users\Patrik Nusszer\source\repos\TF_Games_Util++\Debug\TF_Games_Util++.exe

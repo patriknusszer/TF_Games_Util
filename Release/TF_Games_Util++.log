@@ -1,0 +1,9 @@
+﻿cl : command line warning D9002: ignoring unknown option '/ascii'
+  TF_Games_Util++.cpp
+C:\Users\Patrik Nusszer\source\repos\TF_Games_Util++\TF_Games_Util++.cpp(86,12): warning C4244: 'return': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  Generating code
+  2 of 178 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TF_Games_Util++.vcxproj -> C:\Users\Patrik Nusszer\source\repos\TF_Games_Util++\Release\TF_Games_Util++.exe
